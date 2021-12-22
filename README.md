@@ -7,7 +7,7 @@ Socket RAT for windows.
 
 ``` 
 git clone https://github.com/K3xq/Socket-RAT.git 
-python setup.py
+python setup.bat
 ```
 # Run
 
