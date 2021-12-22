@@ -7,14 +7,15 @@ Socket RAT for windows.
 
 ``` 
 git clone https://github.com/K3xq/Socket-RAT.git 
-python setup.bat
 ```
-# Run
-
+# Setup
 ```
-python main.py
+setup.bat
 ```
-
+# Run 
+```
+--> scr --> main.py
+```
 
 
 # Help commands
