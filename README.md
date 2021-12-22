@@ -14,7 +14,7 @@ setup.bat
 ```
 # Run 
 ```
---> scr --> main.py
+python main.py
 ```
 
 
