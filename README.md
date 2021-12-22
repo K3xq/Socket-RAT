@@ -3,6 +3,14 @@
 
 Socket RAT for windows.
 
-#Download
+# Download
 
-git clone 
+``` 
+git clone https://github.com/K3xq/Socket-RAT.git 
+python setup.py
+```
+# Run
+
+```
+python main.py
+```
