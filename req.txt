@@ -1,1 +1,10 @@
-
+pip install socket
+pip install regex
+pip install opencv-python
+pip install anonfile
+pip install pip-custom-platform
+pip install getpass4
+pip install pysqlite3
+pip install python-csv
+pip install pytest-shutil
+pip install pathlib
