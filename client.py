@@ -14,7 +14,7 @@ import shutil
             
             
 anon = AnonFile()
-host = "192.168.1.65"
+host = ""
 port = 5050
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client_socket.connect((host, port))
